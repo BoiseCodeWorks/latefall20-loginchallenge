@@ -1,0 +1,13 @@
+C:\source\codeworks\latefall20\loginchallenge\bin\Debug\netcoreapp3.1\loginchallenge.exe
+C:\source\codeworks\latefall20\loginchallenge\bin\Debug\netcoreapp3.1\loginchallenge.deps.json
+C:\source\codeworks\latefall20\loginchallenge\bin\Debug\netcoreapp3.1\loginchallenge.runtimeconfig.json
+C:\source\codeworks\latefall20\loginchallenge\bin\Debug\netcoreapp3.1\loginchallenge.runtimeconfig.dev.json
+C:\source\codeworks\latefall20\loginchallenge\bin\Debug\netcoreapp3.1\loginchallenge.dll
+C:\source\codeworks\latefall20\loginchallenge\bin\Debug\netcoreapp3.1\loginchallenge.pdb
+C:\source\codeworks\latefall20\loginchallenge\obj\Debug\netcoreapp3.1\loginchallenge.csprojAssemblyReference.cache
+C:\source\codeworks\latefall20\loginchallenge\obj\Debug\netcoreapp3.1\loginchallenge.AssemblyInfoInputs.cache
+C:\source\codeworks\latefall20\loginchallenge\obj\Debug\netcoreapp3.1\loginchallenge.AssemblyInfo.cs
+C:\source\codeworks\latefall20\loginchallenge\obj\Debug\netcoreapp3.1\loginchallenge.csproj.CoreCompileInputs.cache
+C:\source\codeworks\latefall20\loginchallenge\obj\Debug\netcoreapp3.1\loginchallenge.dll
+C:\source\codeworks\latefall20\loginchallenge\obj\Debug\netcoreapp3.1\loginchallenge.pdb
+C:\source\codeworks\latefall20\loginchallenge\obj\Debug\netcoreapp3.1\loginchallenge.genruntimeconfig.cache
